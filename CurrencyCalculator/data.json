@@ -1,0 +1,62 @@
+[
+    {
+        "ID": 1,
+        "course": 0.97,
+        "goalCurr": "EUR",
+        "startCurr": "CHF"
+    },
+    {
+        "ID": 2,
+        "course": 0.97,
+        "goalCurr": "USD",
+        "startCurr": "CHF"
+    },
+    {
+        "ID": 3,
+        "course": 1.21,
+        "goalCurr": "GBP",
+        "startCurr": "CHF"
+    },
+    {
+        "ID": 4,
+        "course": 90.96,
+        "goalCurr": "RUB",
+        "startCurr": "CHF"
+    },
+    {
+        "ID": 5,
+        "course": 19.77,
+        "goalCurr": "EGP",
+        "startCurr": "CHF"
+    },
+    {
+        "ID": 6,
+        "course": 123,
+        "goalCurr": "YEN",
+        "startCurr": "CHF"
+    },
+    {
+        "ID": 7,
+        "course": 0.69,
+        "goalCurr": "AUD",
+        "startCurr": "CHF"
+    },
+    {
+        "ID": 8,
+        "course": 1.35,
+        "goalCurr": "CAD",
+        "startCurr": "CHF"
+    },
+    {
+        "ID": 9,
+        "course": 6.74,
+        "goalCurr": "YUA",
+        "startCurr": "CHF"
+    },
+    {
+        "ID": 10,
+        "course": 1.05,
+        "goalCurr": "CHF",
+        "startCurr": "EUR"
+    }
+]

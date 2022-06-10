@@ -13,7 +13,7 @@
 #########################################
 import json, sys
 stop=""
-f = open('JSON\data.json')
+f = open('data.json')
 data = json.loads(f.read())
 outstr="Enter corresponding number for conversion: "
 for i in range(data[-1]["ID"]):
@@ -38,7 +38,7 @@ def newRec():
             "course":dCourse
         }
         data.append(newRecord)
-        with open('JSON\data.json', 'w') as f:
+        with open('data.json', 'w') as f:
             f.write(json.dumps(data, indent=4, sort_keys=True))
         stop=input("Do you want to save your Work and Terminate the Loop, enter 'SAVE' otherwise ENTER: ")
 
